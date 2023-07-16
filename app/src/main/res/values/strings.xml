@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">ReadGrow</string>
+    <string name="profile_info">Profile Information:</string>
+    <string name="home_menu">Home</string>
+    <string name="messages">Messages</string>
+    <string name="full_address">Full Address</string>
+    <string name="logout">Sign out</string>
+    <string name="age">Age</string>
+    <string name="app_logo_description">Logo of the Application</string>
+    <string name="login_username_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_showPassword"><u>Show Password</u></string>
+    <string name="login_button_text">Log In</string>
+    <string name='login_signup_text'><u><b>Sign Up.</b></u></string>
+    <string name="login_noAccount_text">Dont have an account?</string>
+    <string name="signUp1_username_hint">Create a Username</string>
+    <string name="signUp1_username_email">Enter your email Address</string>
+    <string name="signUp1_password_hint">Create Password</string>
+    <string name="signUp1_button_text">Next</string>
+    <string name="full_name">Full Name</string>
+    <string name="Message">Message</string>
+    <string name="UpdateProfile">Update Profile</string>
+    <string name="profile">profile</string>
+    <string name="MessageHere">Write your message here.</string>
+    <string name="signUp1_Account_text">Already have an account?</string>
+    <string name="signUp1_signin_text"><u><b>Sign In.</b></u></string>
+    <string name="signUp1_name_hint">Enter Your Full Name</string>
+    <string name="signUp2_country_hint">Select Country</string>
+    <string name="addBook">Add Book</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="sign_out">Sign out</string>
+    <string name="home">Home</string>
+    <string name="updateBook">Update Book</string>
+    <string name="bookName">Name of Book</string>
+    <string name="bookAuthor">Author</string>
+    <string name="publication">Publication</string>
+    <string name="yearPublication">Year</string>
+    <string name="share">Share</string>
+    <string name="giveaway">Give Away</string>
+    <string name="rent">Rent</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Update</string>
+    <string name="giveAway">Give Away</string>
+    <string name="totalCost">$ Total Cost</string>
+    <string name="rentPrice">$ Rent Price (If)</string>
+    <string name="rentHint">$ Cost per week</string>
+    <string name="rentHint2">Insert a Link</string>
+    <string name="messageDesc">View Messages</string>
+    <string name="signOutDesc">Sign Out</string>
+    <string-array name="signUp2_countries">
+        <item>Canada</item>
+        <item>United States</item>
+    </string-array>
+    <string-array name="status">
+        <item>Status</item>
+        <item>Available</item>
+        <item>Unavailable</item>
+    </string-array>
+    <string-array name="signUp2_province">
+        <item>Ontario</item>
+        <item>Qubec</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Manitoba</item>
+        <item>British Columbia</item>
+        <item>Alberta</item>
+        <item>Saskatchewan</item>
+        <item>Prince Edward Island</item>
+        <item>Newfoundland and Labrador</item>
+    </string-array>
+    <string name="signUp2_province_hint">Select Province</string>
+    <string name="signUp2_postalCode_hint">Enter Postal Code</string>
+    <string name="signUp2_address_hint">Enter Full Address</string>
+    <string name="SignUp2_button_text">Create Account</string>
+    <string name="signUp2_age_hint">Enter Age</string>
+    <string name="signUp2_genre_hint">Select Genre</string>
+    <string-array name="signUp2_genre">
+        <item>Fiction</item>
+        <item>Non-Fiction</item>
+    </string-array>
+    <string name="findBook_label">Showing books near <u>(location)</u></string>
+    <string name="requestBook_bookname_label">Book Name</string>
+    <string name="requestBook_authorname_label">Author Name</string>
+    <string name="requestBook_publication_label">Publication</string>
+    <string name="requestBook_year_label">Year</string>
+    <string name="requestBook_bookOwnerName_label">Book Owner Name</string>
+    <string name="requestBook_email_label">Email</string>
+    <string name="requestBook_location_label">Pickup Location</string>
+    <string name="requestBook_cost_display">The total cost is <u>$(cost)</u></string>
+    <string name="requestBook_message">Type message</string>
+    <string name="requestBook_send_button">Send</string>
+    <string name="findBook_postalCode">Postal Code</string>
+    <string name="updateBook0_title">MY BOOKS</string>
+    <string name="homepage_addUpdateBook">Add/Update a Book</string>
+    <string name="homepage_findBook">Find a book</string>
+    <string name="homepage_readingTracker">Reading Tracker</string>
+    <string name="homepage_text">Hi User,</string>
+    <string name="homepage_text2">What would you like to do today?</string>
+    <string name="findBook_BTN_Search">Search</string>
+    <string name="findBook_hint_postal_code">Enter Postal Code</string>
+    <string name="readingTrickerTitle">Reading Tracker</string>
+    <string name="sortOptionBtn">Sort</string>
+    <string-array name="bookOptions">
+        <item>Please select an option</item>
+        <item>Rent</item>
+        <item>Share</item>
+        <item>Give away</item>
+        <item>Not avalaible</item>
+    </string-array>
+    <string name="unavailable">Unavailable</string>
+    <string name="reply_Request">Reply Request</string>
+    <string name="listRequestedBook">List Requested Books</string>
+    <string name="admin_createUser">Create New User</string>
+    <string name="admin_manageUser">Manage User</string>
+    <string name="admin_sendMessage">Send Message</string>
+    <string name="deleteUser">Delete User</string>
+    <string name="readingOnline">Reading Online</string>
+    <string name="borrowBook">Borrow From User</string>
+    <string name="sendMessage">Send Message</string>
+    <string name="hint_write_title">Write title of the message here</string>
+</resources>
